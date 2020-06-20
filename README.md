@@ -1,2 +1,2 @@
 # JavaScript_21-38
-Some short program of javascript
+Some short programs of javascript
